@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Headline-Hub/static/css/main.65daefcf.css",
+    "main.js": "/Headline-Hub/static/js/main.516d1b8d.js",
+    "static/media/Homepage.jpg": "/Headline-Hub/static/media/Homepage.6f61c7c0870486b9310d.jpg",
+    "index.html": "/Headline-Hub/index.html",
+    "main.65daefcf.css.map": "/Headline-Hub/static/css/main.65daefcf.css.map",
+    "main.516d1b8d.js.map": "/Headline-Hub/static/js/main.516d1b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65daefcf.css",
+    "static/js/main.516d1b8d.js"
+  ]
+}
